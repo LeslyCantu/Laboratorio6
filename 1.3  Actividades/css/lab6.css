@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color:  #ff9999;
+}
+p{
+    text-align: justify;
+    margin: 50px;
+}
+ul{
+    margin-left: 50px;
+}
+.slide{
+    margin-right: 380px;
+    margin-left: 380px;
+}
+.slide img{
+    height: 95vh;
+    width: 15vh;
+}
+h2{
+    background-color:  #ffb3ff;
+    text-align: center;
+}
+.cuerpo {
+    background-color: #ffe6ff;
+}
+.cuer {
+    background-color: #ffcc99;
+}
+h3{
+    margin: 15px;
+    color: #cc00cc;
+}
+.tip {
+    color: #cc00cc;
+}
+.card{
+    margin-right: 480px;
+    margin-left: 480px;
+}
